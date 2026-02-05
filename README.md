@@ -6,7 +6,11 @@ Dataset Images are in Zip File and Images are of ISRO Bhuvan Satellite
 
 Dataset zip
 For Satellite Images
+
+
 For Soil Images Dataset: "https://drive.google.com/file/d/1VvFJrbmQmUnuIpCxBGlVxxE-bRjcvfkx/view?usp=drive_link"
+
+
 $ requirements.txt
 
 
