@@ -17,7 +17,7 @@ $ requirements.txt
 $ packages.txt
 
 
-Main Command to Run ----$ streamlit run satellite_analysis_apptrp.py 
+Main Command to Run ----$: streamlit run satellite_analysis_apptrp.py 
 
 
 
